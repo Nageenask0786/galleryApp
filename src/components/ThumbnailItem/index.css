@@ -1,0 +1,16 @@
+/* Write your code here. */
+.list {
+  list-style-type: none;
+  display: flex;
+  margin: 10px;
+  flex-direction: row;
+}
+.button {
+  background-color: transparent;
+  border-color: transparent;
+  border: 0px;
+}
+.img {
+  height: 60px;
+  width: 60px;
+}

@@ -1,0 +1,16 @@
+/* Write your code here. */
+ul {
+  display: flex;
+}
+.image {
+  width: 70%;
+}
+.images {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.inactive {
+  opacity: 0.5;
+}
